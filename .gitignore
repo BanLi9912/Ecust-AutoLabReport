@@ -1,0 +1,20 @@
+# 浏览器调试 profile（内含登录 token，绝不入库）
+edge-dbg/
+
+# 本地工作产物：讲义 PDF、裁图、生成的 HTML、纸质报告照片
+work/
+paper/
+shots/
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
